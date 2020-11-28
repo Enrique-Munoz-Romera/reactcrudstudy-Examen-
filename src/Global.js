@@ -4,5 +4,6 @@ var Global = {
   urlTeams: "https://apichampions.azurewebsites.net/ ",
   urlNonStotp: "https://apicruddepartamentospgs.azurewebsites.net",
   urlSeries: "https://apiseriespersonajes.azurewebsites.net/",
+  url,
 };
 export default Global;
